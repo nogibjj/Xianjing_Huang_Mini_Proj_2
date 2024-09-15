@@ -9,6 +9,11 @@
  I run the Makefile as follows: `make install`, `make test`, `make format`, `make lint`. The following pictures show the pass results:
 
 ![1](/imgs/001.png)
+
 ![2](/imgs/002.png)
+
 ![3](/imgs/003.png)
+
 ![4](/imgs/004.png)
+
+![0](/imgs/000.png)

@@ -170,5 +170,5 @@ def main():
     generate_PDF(stored_stat)
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

@@ -14,7 +14,7 @@ test:
 all: install format lint test
 
 generate_and_push:
-	python3 main.py
+	python3 test_main.py
 
 	# Add, commit, and push the generated files to GitHub
 	@if [ -n "$$(git status --porcelain)" ]; then \
